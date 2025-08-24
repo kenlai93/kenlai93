@@ -1,7 +1,7 @@
-# Lay
-
+# About Me
+- Call me Lay.
 - SWE from HK.
-- HKPU CS 2020 Graduate
+- HKPU CS 2020 Graduate.
 - 電子地盤佬
 
 
