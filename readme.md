@@ -6,7 +6,8 @@
 
 
 # My last CMDs
-- yarn prettier -w **/*.[jt]{s,sx}
-- aws s3 cp
-- docker-compose up
-- git rebase -i && git push --force
+- `yarn prettier -w **/*.[jt]{s,sx}`
+- `aws s3 cp`
+- `docker-compose up`
+- `git rebase -i && git push --force`
+- `redis-cli -c`
