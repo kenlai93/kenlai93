@@ -3,6 +3,7 @@
 - SWE from HK.
 - HKPU CS 2020 Graduate.
 - 電子地盤佬
+- Read books and readme.md
 
 
 # My last CMDs
